@@ -83,4 +83,3 @@ The program was successfully implemented using Dynamic Programming and the expec
 
 ---
 
-If you want **EX 5A, 5B, 5C** also prepared, just tell me!
